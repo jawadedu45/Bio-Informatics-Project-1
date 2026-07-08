@@ -36,7 +36,7 @@ of distinguishing normal vs. cancer samples based on expression patterns.
 - SciPy (t-test)
 
 ## Project Structure
-[9:51 am, 08/07/2026] Me: ├── data/                  # raw/processed data
+ ├── data/                  # raw/processed data
 ├── notebooks/             # analysis notebooks
 ├── sequence_analysis.py   # GC content, alignment
 ├── gene_expression.py     # t-test, top gene identification
